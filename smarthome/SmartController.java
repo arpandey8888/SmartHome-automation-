@@ -1,5 +1,4 @@
 package smarthome;
-
 import java.util.*;
 
 public class SmartController {
